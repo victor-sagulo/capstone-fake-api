@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "vlcampos921@gmail.com",
+      "password": "$2a$10$QS3mnEJV/.VrEOYeMXGnG.v6X.gb/N263Vz2O2/p4QAo8KDFnF8HC",
+      "name": "Victor Luiz",
+      "plataform": "PC",
+      "age": 26,
+      "id": 1
+    },
+    {
+      "email": "marcaoD'las@gmail.com",
+      "password": "$2a$10$r8TRStDdAGE2PZM64r53yOJDKFZfHU5.p6DfxRuupyqyp3W5PIugG",
+      "name": "Marcos Vinicius",
+      "plataform": "PC",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "game": "The Last of Us",
+      "text": "Jogo incrivel gostei muito, principalmente da sensção de se sentir dentro do jogo",
+      "likes": 0,
+      "usefullPost": 0,
+      "comments": [],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "game": "Assassins Creed - Odissey",
+      "text": "Jogo incrivel gostei muito, principalmente da sensção de se sentir dentro do jogo",
+      "likes": 0,
+      "usefullPost": 0,
+      "comments": [],
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "game": "Elden Ring",
+      "text": "Jogo incrivel gostei muito, principalmente da sensção de se sentir dentro do jogo",
+      "likes": 0,
+      "usefullPost": 0,
+      "comments": [],
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "game": "Elden Ring 2",
+      "text": "Jogo incrivel gostei muito, principalmente da sensção de se sentir dentro do jogo",
+      "likes": 0,
+      "usefullPost": 0,
+      "comments": [],
+      "id": 4
+    }
+  ]
+}
